@@ -1,0 +1,9 @@
+Flask>=2.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+pandas>=1.5
+networkx>=3.0
+jobspy
+pyvis
+scikit-learn
+numpy
