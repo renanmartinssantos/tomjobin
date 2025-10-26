@@ -3,7 +3,7 @@ openai>=1.0.0
 python-dotenv>=1.0.0
 pandas>=1.5
 networkx>=3.0
-jobspy
+python-jobspy
 pyvis
 scikit-learn
 numpy
